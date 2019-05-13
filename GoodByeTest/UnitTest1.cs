@@ -10,7 +10,7 @@ namespace GoodByeTest
         [TestMethod]
         public void TestMethod1()
         {
-            Assert.AreEqual("Goodbye World!", Program.createMessage());
+            Assert.AreEqual("Goodbye World!!", Program.createMessage());
         }
     }
 }
