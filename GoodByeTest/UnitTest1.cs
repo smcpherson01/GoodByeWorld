@@ -1,6 +1,6 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using GoodbyeWorld;
+using GoodbyeWorld; 
 
 namespace GoodByeTest
 {
@@ -10,7 +10,7 @@ namespace GoodByeTest
         [TestMethod]
         public void TestMethod1()
         {
-            Assert.AreEqual("Goodbye World", Program.createMessage());
+            Assert.AreEqual("Goodbye World!", Program.createMessage());
         }
     }
 }
