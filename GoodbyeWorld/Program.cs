@@ -15,7 +15,7 @@ namespace GoodbyeWorld
 
         public static string createMessage()
         {
-            return "Goodbye World";
+            return "Goodbye World!!";
         }
     }
 }
